@@ -10,7 +10,7 @@ _Mis à jour le 22 octobre 2026._ Ce fichier sert à préparer les posts mensuel
 - Le soir et le week-end : une plateforme de formation en ligne pour Madagascar, le Bénin et les Comores, pour donner envie aux filles de se lancer dans les filières scientifiques. **Ne jamais citer le nom du projet ni l'association cliente.** Mise en ligne prévue fin 2026 : écrire « je développe », pas « j'ai lancé ».
 - Projets perso en ligne (Yves les présente comme des projets à côté, jamais comme son activité principale) :
   - Pétanque 4 parties, https://petanque-4parties.fr : gestion de concours en 4 parties (tirage, scores, classement, feuilles de match, fonctionne hors connexion, PWA).
-  - Assistant pétanque (Android), https://play.google.com/store/apps/details?id=com.vitsika.training : compter les points, s'entraîner et mesurer sa progression.
+  - Assistant pétanque (Android, gratuite), https://play.google.com/store/apps/details?id=com.vitsika.training : compter les points, s'entraîner et mesurer sa progression ; statistiques de réussites et d'échecs au tir et au point, en match comme à l'entraînement. Vocabulaire : « point » (jamais « pointage »).
   - D'autres petits projets (dont un formulaire CERFA en ligne). En parler seulement si Yves le demande ou le note dans `idees.md`.
 
 ## Comptes
@@ -39,3 +39,4 @@ Retour d'expérience projet (anonymisé) · point de vue d'expert (dette techniq
 ## Historique des posts
 
 - 2026-10-22 : lancement (Facebook et Instagram), visuel `posts/2026-10-22-lancement/visuel.jpg`.
+- 2026-10-23 : Assistant pétanque, statistiques de réussite au tir et au point en match et à l'entraînement (Facebook et Instagram), visuel `posts/2026-10-23-assistant-petanque/visuel.jpg` (captures du Play Store).
